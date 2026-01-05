@@ -1,0 +1,8 @@
+{
+  "name": "ChefGemini AI Kitchen",
+  "description": "An all-in-one AI cooking companion featuring interactive voice assistance, recipe discovery with Google Search grounding, image-based ingredient analysis, and an AI-powered image editing lab.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
